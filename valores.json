@@ -1,0 +1,14 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"valores"},
+{"type":"table","name":"mitabla","database":"valores","data":
+[
+{"id":"1","titulo":"\"Ducati\"","datos":"[{\"elNombre\":\"Desmocedici\",\"estrellas\":6}]"},
+{"id":"4","titulo":"\"Honda\"","datos":"[{\"elNombre\":\"R19\",\"estrellas\":2}]"},
+{"id":"5","titulo":"\"BMW\"","datos":"[{\"elNombre\":\"R12\",\"estrellas\":3},{\"elNombre\":\"R128B\",\"estrellas\":1}]"},
+{"id":"10","titulo":"\"Kawasaki\"","datos":"[{\"elNombre\":\"hayabusa\",\"estrellas\":2}]"},
+{"id":"14","titulo":"\"Yamaha\"","datos":"[{\"elNombre\":\"Osaka\",\"estrellas\":3},{\"elNombre\":\"Tokio\",\"estrellas\":2},{\"elNombre\":\"Nagoya\",\"estrellas\":4}]"},
+{"id":"17","titulo":"\"Derbi\"","datos":"[{\"elNombre\":\"Tormo\",\"estrellas\":1}]"}
+]
+}
+]
